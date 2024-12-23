@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestorTorneosLol", "GestorTorneosLol\GestorTorneosLol.csproj", "{D31BB76A-26FE-47E6-A7AA-E7CB4DC54254}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APITorneosLol", "APITorneosLol\APITorneosLol.csproj", "{D3195EDD-5C91-48CA-BABD-28CE99C10DEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D31BB76A-26FE-47E6-A7AA-E7CB4DC54254}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D31BB76A-26FE-47E6-A7AA-E7CB4DC54254}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D31BB76A-26FE-47E6-A7AA-E7CB4DC54254}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3195EDD-5C91-48CA-BABD-28CE99C10DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3195EDD-5C91-48CA-BABD-28CE99C10DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3195EDD-5C91-48CA-BABD-28CE99C10DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3195EDD-5C91-48CA-BABD-28CE99C10DEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
